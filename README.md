@@ -5,4 +5,4 @@ You could [CLICK HERE](https://github.com/Jwhite077/NOOTA/blob/master/NOOTA.mobi
 
 # About This File
 
-It was created by Apple Inc. for tvOS beta . So if we install it into our iPhone ,the our iPhone would not check update info (becaus the plateform is wrong , tvOS ≠ iOS)
+It was created by Apple Inc. for tvOS beta . So if we install it into our iPhone ,the our iPhone would not check update info (because the platform is wrong , tvOS ≠ iOS)
